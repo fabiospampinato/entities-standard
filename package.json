@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/entities-standard",
   "description": "An object mapping ~2000 standard HTML entities to their value.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
